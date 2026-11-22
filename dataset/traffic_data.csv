@@ -1,0 +1,11 @@
+traffic_volume,avg_speed,rainfall_mm,temperature_c,hour,day_of_week,road_type,location,congestion_score
+1200,25,5,28,18,1,highway,CBD,85
+500,60,0,30,10,2,residential,residential_zone,25
+900,35,2,29,8,3,arterial,school_zone,70
+300,65,0,32,14,4,residential,residential_zone,20
+1500,15,8,26,19,5,highway,CBD,95
+800,40,1,27,11,1,arterial,industrial,55
+1100,28,3,29,17,2,highway,CBD,80
+400,55,0,31,13,6,residential,school_zone,30
+1300,20,6,25,18,3,highway,industrial,90
+700,45,0,30,9,4,arterial,CBD,50
