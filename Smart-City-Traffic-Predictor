@@ -1,0 +1,13 @@
+Smart-City-Traffic-Predictor/
+│
+├── dataset/
+│   └── traffic_data.csv
+│
+├── notebooks/
+│   └── analysis.ipynb
+│
+├── app.py
+├── model.py
+├── requirements.txt
+├── README.md
+└── .gitignore
